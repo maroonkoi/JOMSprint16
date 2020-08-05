@@ -1,2 +1,2 @@
-# Marathon Web Project Template for Sprint #16
-# Devolopers: Artem Vovk and Vladyslav Kutsobin 
+# JOM SPRINT 16 Spring Exception Handling
+# Author: Chen Paul
